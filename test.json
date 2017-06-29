@@ -1,15 +1,15 @@
-[{
-  "status":"active",
-  "projectid":"1",
-  "projectname":"Project UNO"
-},
-{
-  "status":"active",
-  "projectid":"2",
-  "projectname":"project DOS"
-},
-{
-  "status":"active",
-  "projectid":"3",
-  "projectname":"project TRES"
-}]
+[
+  {
+    "projectid":"1",
+    "status":"active",
+    "projectname":"projectUNO"
+  },{
+    "projectid":"2",
+    "status":"active",
+    "projectname":"projectDOS"
+  },{
+    "projectid":"3",
+    "status":"inactive",
+    "projectname":"projectTRES"
+  }
+]
